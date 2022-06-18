@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gglm",
+    "oncran": true
+  },
+  {
+    "package": "trimetStops",
+    "oncran": true
+  }
+]
