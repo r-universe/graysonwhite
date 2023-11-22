@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "FIESTA"]
-	path = FIESTA
-	url = https://github.com/cran/FIESTA
 [submodule "gglm"]
 	path = gglm
 	url = https://github.com/graysonwhite/gglm
