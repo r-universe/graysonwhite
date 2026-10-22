@@ -5,6 +5,9 @@
 [submodule "gglm"]
 	path = gglm
 	url = https://github.com/graysonwhite/gglm
+[submodule "kbaabb"]
+	path = kbaabb
+	url = https://github.com/graysonwhite/kbaabb
 [submodule "trimetStops"]
 	path = trimetStops
 	url = https://github.com/graysonwhite/trimetstops
